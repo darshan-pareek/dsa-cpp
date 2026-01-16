@@ -19,6 +19,9 @@ Data Structures and Algorithms implemented in C++.
 - Recursion
 - Dynamic Programming
 - Graphs
+- Hashmap
+- Tries
+- OOPs
 
 ## 🛠 Language & Tools
 - C++
